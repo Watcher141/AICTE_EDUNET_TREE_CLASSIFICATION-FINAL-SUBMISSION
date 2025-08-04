@@ -54,7 +54,7 @@ To run the Tree Intelligence Assistant locally, follow these steps:
     ```bash
     pip install streamlit pandas numpy scikit-learn tensorflow Pillow
     ```
-
+    
 3.  **Ensure all model and data files** (`basic_cnn_tree_species.h5`, `nn_model.joblib`, `scaler.joblib`, `tree_data.pkl`) are in the root directory alongside `streamlit_integrated.py`.
 
 4.  **Run the Streamlit app:**
@@ -63,3 +63,9 @@ To run the Tree Intelligence Assistant locally, follow these steps:
     ```
 
 The application will open in your default web browser. You can then use the sidebar to navigate between the different modes.
+
+
+## Model Links
+```bash
+   https://drive.google.com/drive/folders/1VJz3lJB4ZZjizH9dhkkBZbIzhhUjJmIt?usp=drive_link
+```
